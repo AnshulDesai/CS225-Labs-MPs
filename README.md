@@ -1,0 +1,3 @@
+# CS 225 (Data Structures) Labs & Machine Problems
+
+Contains all labs and machine problems from CS 225 taken during Fall 2018.  Code has been written in C/C++ and demonstrates an understanding of various data structures.  Machine problems are centered primarily around the use of data structures to represent colors, coordinates, and pixels on a screen up to complex algorithms used for image manipulation (including image mosaics) of user input image files.
